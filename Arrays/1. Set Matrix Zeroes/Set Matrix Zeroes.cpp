@@ -80,7 +80,7 @@ Row	   1 | 0 1
 	   (0)  0  1
 		1   1  1
 
-2. Second loop, again traverse the whole matrix but from (1, 1); check 
+2. Second loop, again traverse the whole matrix but from (1, 1); check
     eg.     0  1
 			1  1
 if 0th row or 0th column == 0:
@@ -97,3 +97,6 @@ if(col0 = 0), mark the whole 0th col to 0
 Time Complexity: O(2(n*m))
 Space Complexity: O(1)
 */
+
+//Revised on 31/01/2026
+//Revised on 22/05/2026
